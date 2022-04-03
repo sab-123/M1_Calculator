@@ -20,11 +20,11 @@ In this project we used the concept of  Functions ,multi file programing , Arith
 
  Addition - sum of two numbers is calculated
  
- Subtraction - difference between two numbers or quantities is calculated.
+ Subtraction - subtract two numbers.
  
- Multiplication - product of two number is calculated
+ Multiplication - multiplying  two number 
  
- Division - The process of dividing iven two values
+ Division - The process of dividing two values
  
  Square - to perform the square of number
 
